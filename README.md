@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Just a guy and his projects that are helping him learn to transition from a career in finance to tech.
 <!--
 **johovany/johovany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
